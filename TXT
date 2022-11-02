@@ -1,0 +1,4 @@
+1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-123sonysony.buyers-app-knowledge-base.gh.allegrogroup.com
+2. Use this code for the value of the TXT record: 9aefbb8e7c98264894f1a4d4f6bb88
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+  
